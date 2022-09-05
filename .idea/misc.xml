@@ -4,6 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/.Androis Studio/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/.Androis Studio/food/app/src/main/res/drawable/background_edit_view.xml" value="0.2" />
+        <entry key="..\:/.Androis Studio/food/app/src/main/res/drawable/btn_gradient.xml" value="0.22" />
+        <entry key="..\:/.Androis Studio/food/app/src/main/res/drawable/fb_background.xml" value="0.144" />
+        <entry key="..\:/.Androis Studio/food/app/src/main/res/drawable/google_background.xml" value="0.1465" />
+        <entry key="..\:/.Androis Studio/food/app/src/main/res/layout/activity_aplash.xml" value="0.371875" />
+        <entry key="..\:/.Androis Studio/food/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/.Androis Studio/food/app/src/main/res/layout/activity_sign_up.xml" value="0.33" />
+        <entry key="..\:/.Androis Studio/food/app/src/main/res/layout/activity_sing_in.xml" value="0.25" />
+        <entry key="..\:/.Androis Studio/food/app/src/main/res/layout/activity_splash.xml" value="0.33" />
       </map>
     </option>
   </component>

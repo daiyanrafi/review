@@ -7,5 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="startcolorgradient">#F43636</color>
+    <color name="endcolorgradient">#FFC107</color>
+
+
+    <color name="fbcolor">#0C8DF1</color>
+    <color name="googlecolor">#E5AC02</color>
+
 
 </resources>
